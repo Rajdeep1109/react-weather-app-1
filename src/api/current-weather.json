@@ -1,0 +1,32 @@
+{
+  "lat": "23.7104N",
+  "lon": "90.40744E",
+  "elevation": 23,
+  "timezone": "Asia/Dhaka",
+  "units": "metric",
+  "current": {
+    "icon": "cloudy",
+    "icon_num": 6,
+    "summary": "Cloudy",
+    "temperature": 27.8,
+    "feels_like": 29.5,
+    "wind_chill": 30,
+    "dew_point": 22.5,
+    "wind": {
+      "speed": 3.3,
+      "gusts": 7.1,
+      "angle": 173,
+      "dir": "S"
+    },
+    "precipitation": {
+      "total": 0,
+      "type": "none"
+    },
+    "cloud_cover": 84,
+    "ozone": 273.03,
+    "pressure": 1003,
+    "uv_index": 0,
+    "humidity": 73,
+    "visibility": 24.14
+  }
+}
